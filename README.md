@@ -60,7 +60,8 @@ A.) Turn on video and introduce self and what we're going to do. (maybe do this 
 
 B.) show users where to download microsoft code
 C.) show users where to download git (bash) (and how to turn it into your default terminal)
-D.) show users how to create new repo
+D.) show users how to create new repo (and which license to choose)
+
 
 E.) open folder in microsoft code
 F.) start with:
