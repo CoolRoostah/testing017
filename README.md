@@ -124,7 +124,7 @@ T.) Please Like & subscribe if you enjoyed this video; for it'll help get more p
 		- GIT CONFIG --GLOBAL USER.NAME <USERNAME> <<<<<<<<<<<<type in your username without the brackets so for me it'd be:>>>>>>>>>> GIT CONFIG --GLOBAL USER.NAME Salem 
 		- GIT CONFIG --GLOBAL USER.EMAIL <EMAIL> <<<<<<<<<<<<<<<<< type in your email without the brackets so for me it'd be:>>>>>>>>>> GIT CONFIG --GLOBAL USER.EMAIL "StorytellingSalem@outlook.com"
 
-4.) how to create a new repo
+4.) how to create a new repo (and where to go to figure out what kind of license youd like>>> https://choosealicense.com/licenses/ 
 
 5.) go over to microsoft code and stay there till we create new ssh key & copy it
 6.) go over to github and paste ssh key
