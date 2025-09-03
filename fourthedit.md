@@ -3,19 +3,20 @@ Video Order:>>>>>>>>>>>>>>>>>>>>
 
 
 *************When it comes to videoing the self; the order is: 
-((((Potential Title:>>>>>>('in under __min?')>>>>>>>>>>> Uminion Tech #18 VLesson 001: (Beginner-To-Intermediate-Level-Coding-Lesson:) A.) How to push your Code from Microsoft Code to a Github Repo using Git (Bash) via SSH; B.) and integrating a .ymlFile from GitHub Actions with a Hostinger FTP to autodeploy/autobuild/autopatch your website in real time during a 'Git Add/Git Commit/Git Push' sequence. C.) and then Cloning a Repo from Github to our Microsoft Code via Git Remote using HTTPS to test if our system works. Presented by: StorytellingSalem for Uminion dot com's Union Tech #18 <<<<<<<<<<<<<<<)))
+((((Potential Title:>>>>>>('in under __min?')>>>>>>>>>>> Uminion Tech #18 VLesson 001: A.) How to push your Code from Microsoft Code to a Github Repo using a Git (Bash) Terminal via SSH; B.) and integrating a .ymlFile from GitHub Actions with a Hostinger FTP to autodeploy/autobuild/autopatch your website in real time during a 'Git Add/Git Commit/Git Push' sequence. C.) and then Cloning a Repo from Github to our Microsoft Code via Git Remote using HTTPS to test if our system works. Presented by: StorytellingSalem for Uminion dot com's Union Tech #18; (a: Beginner-To-Intermediate-Level-Coding-Lesson). <<<<<<<<<<<<<<<)))
 
 Chapter 1:> The Preview & Goal:>
 ((((((((((((DURING Preview:> Share these words, while the preview is happening in the background, of snipbits of your finished product; AND OF YOU "Getting it ready")))))))))))
 	-"A.)Today we're going to take some essential code from our uminion.com's website, B.) put it on Github- C.) and then connect it (our code on GitHub) to Hostinger's FTP system- via Github Actions; D.) so when we Git Push; our newly-pushed-code- automatically updates our website again. E.) The goal of this educational video is to change this word: "submit" to "upload" and then F.) use git clone remote to change it back from "upload" to "submit" G.) using both a combination of HTTPS and SSH. 
-Due to the headyness of what we're covering today, we ask you to politely click the like/subscribe/ and even share button to share to a coder friend you know. Union Tech #18 is a union of coders- & for that- you will be able to find copy pasteable code (and transcript) via somewhere in the description below of what was covered. We will now begin; after covering our Table of Contents:
+Due to the headyness of what we're covering today, we ask you to politely click the like/subscribe/ and even share button to share to a coder friend you know. 
+Union Tech #18 is a union of coders- & for that- you will be able to find copy pasteable code (and transcript) via somewhere in the description below of what was covered today. & with that; we will now begin; after briefly covering our Table of Contents:
 
 (Don't read this outloud, just pause it for a second and then move on saying: "Pause to read; and with that; lets move on:"***move on***)
 Chapter 1.) is the Preview & Goal.
-Chapter 2.) is "Taking the essential code from our website out (so we can put it on GitHub- to then connect it back to our website through GitHub Actions)"
+Chapter 2.) is "Taking the essential code from our website out (so we can put it on GitHub- to then connect it back to our website through GitHub Actions)."
 Chapter 3.) is us downloading all we need and integrating it with each other
-Chapter 4.) Creating a Repo & License Recomendation
-Chapter 5.) Creating an SSH Key and Connecting it to GitHub
+Chapter 4.) Creating a GitHub Repo (& License Recomendation)
+Chapter 5.) Creating an SSH Key and Connecting our Key to GitHub
 Chapter 6.) Now that the SSH Key is connected, we push our Microsoft Code to the Github Repo via the Git (Bash) Terminal; & see if it worked:
 Chapter 7.) Now lets connect our Hostinger FTP to our GitHub Actions & Test it.
 Chapter 8.) Now We Clone this GitHub Repo with a completely new folder, from scratch; and see if we can Git Push our code from Microsoft Code to GitHub via Git(Bash) and see if our GitHub Actions .yml file autoUpdates our Hostinger's Website Via the Hostinger FTP system & GitHub Secrets:
